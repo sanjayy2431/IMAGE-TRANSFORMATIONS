@@ -1,5 +1,5 @@
 # IMAGE-TRANSFORMATIONS
-## Name : Sanjay v
+## Name : Sanjay V
 ## Reg No : 212223230188
 
 
